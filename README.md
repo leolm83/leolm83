@@ -1,4 +1,4 @@
-:bowing_man: Olá! eu sou o Leonardo,<br>
+:bowing_man: Olá! eu sou o Leonardo,
 <hr>
 🌱Este é meu repositório,pretendo expandi-lo sempre com o conhecimento que for adquirindo!<br>
 :dart:No momento estou focando mais em Python e JS mas provavelmente voce verá commits em algumas outras linguagens<br>
