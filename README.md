@@ -1,4 +1,8 @@
-Hello! I'm Leo!========================================================================================================================================Software Developer------------------I'm a developer hunger by making good software, currently i work with and i am focusing in java ecosystem, microservices and observability, and I hope you find something interesting here!* 🌍  I'm based in Brazil* 🧠  I'm learning K8s* ⚡  and i still not using nvim as my primary code editor
+Hello! I'm Leo!
+========================================================================================================================================
+Software Developer
+------------------
+I'm a developer hunger by making good software, currently i work with and i am focusing in java ecosystem, microservices and observability, and I hope you find something interesting here!* 🌍  I'm based in Brazil* 🧠  I'm learning K8s* ⚡  and i still not using nvim as my primary code editor
 
 <a href="https://www.github.com/leolm83" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leolm83?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
