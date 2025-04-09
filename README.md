@@ -2,7 +2,7 @@ Hello! I'm Leo!
 ========================================================================================================================================
 Software Developer
 ------------------
-I'm a developer hunger by making good software, currently i work with and i am focusing in java ecosystem, microservices and observability, and I hope you find something interesting here!* 🌍  I'm based in Brazil* 🧠  I'm learning K8s* ⚡  and i still not using nvim as my primary code editor
+I'm a developer hunger by making good software, currently I work with and I am focusing in java ecosystem, microservices and observability, and I hope you find something interesting here!
 
 
 
